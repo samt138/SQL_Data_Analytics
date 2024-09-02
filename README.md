@@ -1,4 +1,4 @@
-# Overview:
+# Overview
 
 This project delves into the data job market, concentrating on data analyst positions. It examines the highest-paying jobs, 
 🔥 the most sought-after skills, and 📈 the intersection of high demand and high salaries in data analytics.
